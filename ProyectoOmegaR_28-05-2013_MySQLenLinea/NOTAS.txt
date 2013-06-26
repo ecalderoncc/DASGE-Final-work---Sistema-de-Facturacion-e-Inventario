@@ -1,0 +1,1 @@
+Agregar marca,modelo,imagen a base de datos.

@@ -1,0 +1,338 @@
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Container.resources
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+C:\Users\Usuario\Desktop\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Container.resources
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Container.resources
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Container.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+F:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+G:\Chambas\ProyectoOmegaR\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Container.resources
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+F:\Alex\Proyectos\Proyecto Majes 2013\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Container.resources
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+F:\Alex\Proyectos\Honguito\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Container.resources
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+F:\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Container.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_06-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+G:\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_07-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_08-05-2013 V.1.0.0\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TipodeCancelacion.resources
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+G:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Cambiar_Contraseña.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Cambiar_Contraseña.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TipodeCancelacion.resources
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\RdlCompile.cache
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\obj\x86\Debug\RdlCompile.compiled
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+F:\ \Chambas\ProyectoOmegaR_08-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Cambiar_Contraseña.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TipodeCancelacion.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Cambiar_Contraseña.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TipodeCancelacion.resources
+H:\ProyectoOmegaR_13-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Cambiar_Contraseña.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TipodeCancelacion.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe.config
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Cambiar_Contraseña.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TipodeCancelacion.resources
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\RdlCompile.cache
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\RdlCompile.compiled
+H:\ProyectoOmegaR_15-05-2013\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.IngresoProductoAlmacen.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe.config
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Cambiar_Contraseña.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.IngresoProductoAlmacen.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TipodeCancelacion.resources
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\RdlCompile.cache
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\RdlCompile.compiled
+C:\Users\JEAN\Desktop\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.FacturaPrincipal.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe.config
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Cambiar_Contraseña.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.FacturaPrincipal.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.IngresoProductoAlmacen.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TipodeCancelacion.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\RdlCompile.cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_16-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\RdlCompile.compiled
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe.config
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csprojResolveAssemblyReference.cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.BoletaPrincipal.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Cambiar_Contraseña.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.FacturaPrincipal.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.HomeOmega.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.IngresoProductoAlmacen.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Login.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MaestroProveedores.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoCliente.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MantenimientoProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.MenuAccesoRapido.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.Properties.Resources.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaClientes.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TablaProductos.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.TipodeCancelacion.resources
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.csproj.GenerateResource.Cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\RdlCompile.cache
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\RdlCompile.compiled
+C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.GuiadeRemisionPrincipal.resources

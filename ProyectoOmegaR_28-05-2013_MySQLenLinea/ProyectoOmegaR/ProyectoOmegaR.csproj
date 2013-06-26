@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8FA0D1D0-B854-48A3-B570-BDD0810EBC81}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProyectoOmegaR</RootNamespace>
+    <AssemblyName>ProyectoOmegaR</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDPrincipal.cs" />
+    <Compile Include="BoletaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoletaPrincipal.Designer.cs">
+      <DependentUpon>BoletaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambiar Contraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambiar Contraseña.Designer.cs">
+      <DependentUpon>Cambiar Contraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacturaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacturaPrincipal.Designer.cs">
+      <DependentUpon>FacturaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuiadeRemisionPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiadeRemisionPrincipal.Designer.cs">
+      <DependentUpon>GuiadeRemisionPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeOmega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeOmega.Designer.cs">
+      <DependentUpon>HomeOmega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoProductoAlmacen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoProductoAlmacen.Designer.cs">
+      <DependentUpon>IngresoProductoAlmacen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaestroProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaestroProveedores.Designer.cs">
+      <DependentUpon>MaestroProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoCliente.Designer.cs">
+      <DependentUpon>MantenimientoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoProductos.designer.cs">
+      <DependentUpon>MantenimientoProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAccesoRapido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAccesoRapido.Designer.cs">
+      <DependentUpon>MenuAccesoRapido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OmegaRDataSet.cs">
+      <DependentUpon>OmegaRDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="OmegaRDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OmegaRDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TablaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TablaClientes.Designer.cs">
+      <DependentUpon>TablaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TablaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TablaProductos.Designer.cs">
+      <DependentUpon>TablaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipodeCancelacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipodeCancelacion.Designer.cs">
+      <DependentUpon>TipodeCancelacion.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Boleta.rdlc" />
+    <EmbeddedResource Include="BoletaPrincipal.resx">
+      <DependentUpon>BoletaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambiar Contraseña.resx">
+      <DependentUpon>Cambiar Contraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacturaPrincipal.resx">
+      <DependentUpon>FacturaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiadeRemisionPrincipal.resx">
+      <DependentUpon>GuiadeRemisionPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeOmega.resx">
+      <DependentUpon>HomeOmega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoProductoAlmacen.resx">
+      <DependentUpon>IngresoProductoAlmacen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaestroProveedores.resx">
+      <DependentUpon>MaestroProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoCliente.resx">
+      <DependentUpon>MantenimientoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoProductos.resx">
+      <DependentUpon>MantenimientoProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAccesoRapido.resx">
+      <DependentUpon>MenuAccesoRapido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TablaClientes.resx">
+      <DependentUpon>TablaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TablaProductos.resx">
+      <DependentUpon>TablaProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipodeCancelacion.resx">
+      <DependentUpon>TipodeCancelacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="OmegaRDataSet.xsc">
+      <DependentUpon>OmegaRDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OmegaRDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OmegaRDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OmegaRDataSet.xss">
+      <DependentUpon>OmegaRDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
