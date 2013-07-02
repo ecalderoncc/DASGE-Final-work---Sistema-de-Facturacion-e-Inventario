@@ -204,9 +204,9 @@ namespace ProyectoOmegaR
                         Link_BD.RegistrarDetalleBoleta(txtcod.Text, codprod, cantidad, "", precioU, precioTot);
                         Link_BD.UpdateStock(usulocal, codprod, cantidad, usucod, "quitar");
                     }
-                    TipodeCancelacion objTipocan = new TipodeCancelacion();
+                    /*TipodeCancelacion objTipocan = new TipodeCancelacion();
                     objTipocan.setDatosBoleta(txtcod.Text, codcliente, txttot_boleta.Text);
-                    objTipocan.Show();
+                    objTipocan.Show();*/
                     Limpiar();
                 }
                 else
