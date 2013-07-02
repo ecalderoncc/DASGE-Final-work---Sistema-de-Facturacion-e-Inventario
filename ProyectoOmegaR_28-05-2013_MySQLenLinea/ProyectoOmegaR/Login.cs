@@ -12,6 +12,7 @@ namespace ProyectoOmegaR
     public partial class Login : Form
     {
         BDPrincipal Link_BD = new BDPrincipal();
+        string fechaingreso;
         int f = 0;
         public Login()
         {
@@ -47,13 +48,19 @@ namespace ProyectoOmegaR
                         }
                     case "OK":
                         {
-
                             HomeOmega A = new HomeOmega(Link_BD.get_CampoUsu("UsuNom"),this);
                             A.Show();
                             txtpass.Text = "";
                             this.Hide();
                             lbl_status1.Text = "";
+                            string usucod;
+                            string usuid;
+                            usucod = Link_BD.get_CampoUsu("Usucod");
+                            usuid = Link_BD.get_CampoUsu("UsuId");
+                            fechaingreso = DateTime.Now.ToString();
+                            Link_BD.RegistrarUsuLogging(usucod, usuid, fechaingreso);
                             break;
+
                         }
                     case "":
                         {

@@ -336,3 +336,6 @@ C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOme
 C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\RdlCompile.cache
 C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\RdlCompile.compiled
 C:\Users\JEAN\Desktop\Chambas\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.GuiadeRemisionPrincipal.resources
+C:\Users\calderon\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.exe.config
+C:\Users\calderon\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.exe
+C:\Users\calderon\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\obj\x86\Debug\ProyectoOmegaR.pdb

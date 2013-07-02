@@ -87,7 +87,29 @@ namespace ProyectoOmegaR
             }
             return true;
         }
-        
+        public void RegistrarUsuLogging(string usucod, string usuid, string fecha)
+        {
+            try
+            {
+                con.ConnectionString = ConexionString;
+                MySqlCommand cmd = new MySqlCommand();
+                cmd.Connection = con;
+                cmd.CommandText = "INSERT INTO LOGGING(UsuCod, UsuId, BolClieCod, DateIn) VALUES ('" + usucod+ "', '" + usuid+ "', '" + fecha + "')";
+                con.Open();
+                cmd.ExecuteNonQuery();
+                MessageBox.Show("Datos correctamente guardados");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.StackTrace);
+                MessageBox.Show("Error: BD");
+            }
+            finally
+            {
+                if (con.State == ConnectionState.Open)
+                    con.Close();
+            }
+        }
         public string get_CampoUsu(string valor)
         {
             DataTable dt = new DataTable();
