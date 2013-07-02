@@ -48,6 +48,17 @@ namespace ProyectoOmegaR
                         }
                     case "OK":
                         {
+                            //MECANISMO DE ESPERA
+                            BarraProgreso.Maximum = 1000000;
+                            BarraProgreso.Minimum = 0;
+                            BarraProgreso.Value = 0;
+                            BarraProgreso.Step = 1;
+                            for (int i = BarraProgreso.Minimum; i < BarraProgreso.Maximum; i = i + BarraProgreso.Step)
+                            {
+                                //esta instrucción avanza la posición actual de la barra
+                                BarraProgreso.PerformStep();
+                            }
+                            //TERMINO DE MECANISMO DE ESPERA
                             HomeOmega A = new HomeOmega(Link_BD.get_CampoUsu("UsuNom"),this);
                             A.Show();
                             txtpass.Text = "";

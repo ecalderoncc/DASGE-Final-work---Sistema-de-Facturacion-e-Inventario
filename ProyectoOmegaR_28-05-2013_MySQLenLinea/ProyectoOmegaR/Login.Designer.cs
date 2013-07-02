@@ -35,6 +35,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.textBnombre = new System.Windows.Forms.TextBox();
             this.lbl_status1 = new System.Windows.Forms.Label();
+            this.BarraProgreso = new System.Windows.Forms.ProgressBar();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -118,12 +119,20 @@
             this.lbl_status1.Size = new System.Drawing.Size(0, 20);
             this.lbl_status1.TabIndex = 19;
             // 
+            // BarraProgreso
+            // 
+            this.BarraProgreso.Location = new System.Drawing.Point(12, 364);
+            this.BarraProgreso.Name = "BarraProgreso";
+            this.BarraProgreso.Size = new System.Drawing.Size(772, 23);
+            this.BarraProgreso.TabIndex = 21;
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(796, 399);
+            this.Controls.Add(this.BarraProgreso);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.lbl_status1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -147,5 +156,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBnombre;
         private System.Windows.Forms.Label lbl_status1;
+        private System.Windows.Forms.ProgressBar BarraProgreso;
     }
 }
