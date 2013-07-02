@@ -17,12 +17,14 @@ namespace ProyectoOmegaR
         static MySqlDataAdapter DataAdapter;
         static int sw = 0; // variable login
         static string IDUSU; // variale id del usuario
-        string ConexionString = "Server=50.63.244.72;user=OmegaR;password=Honguito!1;database=OmegaR;port=3306;";
-        //string ConexionString = "Server=localhost; Database=bdomegar ; Uid=root ; Pwd=admin;";
+        // Nueva cadena de conexion SQL en Linea
+        string ConexionString;
+        
         public BDPrincipal()
         {
             if (sw == 0)
             {
+                ConexionString = "Server=50.63.244.72;user=OmegaR;password=Honguito!1;database=OmegaR;port=3306;";
                 ConexionAccess = new MySqlConnection(ConexionString);
                 string selectCommand = "SELECT * FROM Marcas";
                 DataAdapter = new MySqlDataAdapter(selectCommand, ConexionAccess);
