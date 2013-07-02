@@ -94,10 +94,10 @@ namespace ProyectoOmegaR
                 con.ConnectionString = ConexionString;
                 MySqlCommand cmd = new MySqlCommand();
                 cmd.Connection = con;
-                cmd.CommandText = "INSERT INTO LOGGING(UsuCod, UsuId, BolClieCod, DateIn) VALUES ('" + usucod+ "', '" + usuid+ "', '" + fecha + "')";
+                cmd.CommandText = "INSERT INTO LOGGING(UsuCod, UsuId, DateIn) VALUES ('" + usucod + "', '" + usuid + "', '" + fecha + "')";
                 con.Open();
                 cmd.ExecuteNonQuery();
-                MessageBox.Show("Datos correctamente guardados");
+                MessageBox.Show("Bienvenido "+ usuid);
             }
             catch (Exception ex)
             {
