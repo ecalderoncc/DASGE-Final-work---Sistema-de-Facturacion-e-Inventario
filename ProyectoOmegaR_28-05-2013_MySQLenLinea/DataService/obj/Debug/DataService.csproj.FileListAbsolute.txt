@@ -1,0 +1,5 @@
+C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\DataService\bin\Debug\DataService.dll
+C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\DataService\bin\Debug\DataService.pdb
+C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\DataService\obj\Debug\DataService.dll
+C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\DataService\obj\Debug\DataService.pdb
