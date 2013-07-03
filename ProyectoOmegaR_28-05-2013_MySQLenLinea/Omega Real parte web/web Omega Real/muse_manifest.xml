@@ -1,0 +1,131 @@
+<manifest alg="2" build="8" opt="false">
+  <folder name="assets">
+    <folder name="animacion">
+      <folder name="edge_includes">
+        <file name="edge.1.5.0.min.js" crc="3935511104" mt="1368809561000"/>
+        <file name="jquery-1.7.1.min.js" crc="4091143699" mt="1368809561000"/>
+      </folder>
+      <folder name="images">
+        <file name="imagen pegada 377x500.jpg" crc="4217289028" mt="1368809561000"/>
+        <file name="logo.png" crc="3880283289" mt="1368809561000"/>
+        <file name="pic1.jpg" crc="56414788" mt="1368809561000"/>
+        <file name="pic2.jpg" crc="121702780" mt="1368809561000"/>
+        <file name="pic3.jpg" crc="4267438322" mt="1368809561000"/>
+        <file name="pic4.jpg" crc="251380917" mt="1368809561000"/>
+        <file name="Poster.png" crc="4099098302" mt="1368809561000"/>
+        <file name="u237-4.png" crc="3981893217" mt="1368809561000"/>
+        <file name="u240-4.png" crc="4202198122" mt="1368809561000"/>
+        <file name="u241-4.png" crc="400296398" mt="1368809561000"/>
+        <file name="u242-4.png" crc="4215389679" mt="1368809561000"/>
+        <file name="u243-4.png" crc="95959187" mt="1368809561000"/>
+        <file name="u244-4.png" crc="4264853779" mt="1368809561000"/>
+        <file name="u379-4.png" crc="294353280" mt="1368809561000"/>
+        <file name="u380-4.png" crc="30152338" mt="1368809561000"/>
+        <file name="u381-4.png" crc="4169366136" mt="1368809561000"/>
+        <file name="u382-4.png" crc="4238566755" mt="1368809561000"/>
+        <file name="u383-4.png" crc="4146716022" mt="1368809561000"/>
+        <file name="u384-4.png" crc="3827329774" mt="1368809561000"/>
+        <file name="u421-4.png" crc="4153148034" mt="1368809561000"/>
+        <file name="blank.gif" crc="4208392903" mt="1368809561000"/>
+        <file name="loading.gif" crc="3815509949" mt="1368809561000"/>
+      </folder>
+      <file name="animacion_edge.js" crc="3893098971" mt="1368809561000"/>
+      <file name="animacion_edgeActions.js" crc="4057398977" mt="1368809561000"/>
+      <file name="animacion_edgePreload.js" crc="4148829395" mt="1368809561000"/>
+      <file name="animacion.html" crc="210322182" mt="1368809561000"/>
+    </folder>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_gina-maestra.css" crc="3876161136" ref="phone>index"/>
+      <file name="index.css" crc="126117664" ref="phone>index"/>
+      <file name="nosotros.css" crc="171923504" ref="phone>nosotros"/>
+      <file name="master_contenido.css" crc="48242006" ref="phone>nosotros:phone>contactenos:phone>visionymision"/>
+      <file name="contactenos.css" crc="142520671" ref="phone>contactenos"/>
+      <file name="visionymision.css" crc="238298126" ref="phone>visionymision"/>
+    </folder>
+    <file name="index.html" crc="54722303" mt="1368825142397"/>
+    <file name="nosotros.html" crc="70603796" mt="1368825118073"/>
+    <file name="contactenos.html" crc="92107389" mt="1368825118077"/>
+    <file name="visionymision.html" crc="4095527036" mt="1368825118077"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="89652228"/>
+    <file name="index.css" crc="456351620" ref="index"/>
+    <file name="master_contenido.css" crc="408813522" ref="nosotros:galeria:productos:visionmision:contactenos"/>
+    <file name="nosotros.css" crc="472376132" ref="nosotros"/>
+    <file name="galeria.css" crc="3992077345" ref="galeria"/>
+    <file name="productos.css" crc="279581741" ref="productos"/>
+    <file name="visionmision.css" crc="4092879616" ref="visionmision"/>
+    <file name="contactenos.css" crc="4136983446" ref="contactenos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="museutils.js" crc="4076886207" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="pie.js" crc="4067523484" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="webpro.js" crc="4027400531" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="musewpslideshow.js" crc="355959496" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="jquery.museoverlay.js" crc="473466419" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="museredirect.js" crc="4285303101" ref="index:nosotros:contactenos"/>
+    <file name="jquery.tobrowserwidth.js" crc="301098119" ref="phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="jquery.musemenu.js" crc="4103303034" ref="phone>nosotros:phone>contactenos:phone>visionymision"/>
+  </folder>
+  <folder name="images">
+    <file name="pic2.jpg" crc="121702780" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="pic3.jpg" crc="4267438322" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="pic4.jpg" crc="251380917" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="pic1.jpg" crc="56414788" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="loading.gif" crc="3815509949" ref="index:nosotros:phone>index:phone>nosotros:productos:galeria:contactenos"/>
+    <file name="u241-4.png" crc="400296398" ref="index"/>
+    <file name="u240-4.png" crc="4202198122" ref="index"/>
+    <file name="u237-4.png" crc="3981893217" ref="index"/>
+    <file name="u243-4.png" crc="95959187" ref="index"/>
+    <file name="u244-4.png" crc="4264853779" ref="index"/>
+    <file name="u242-4.png" crc="4215389679" ref="index"/>
+    <file name="logo.png" crc="3880283289" ref="index:nosotros:visionmision:productos:galeria:contactenos:phone>index:phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="u381-4.png" crc="4169366136" ref="nosotros:visionmision:productos:galeria:contactenos"/>
+    <file name="u383-4.png" crc="4146716022" ref="nosotros:visionmision:productos:galeria:contactenos"/>
+    <file name="u384-4.png" crc="3827329774" ref="nosotros:visionmision:productos:galeria:contactenos"/>
+    <file name="u379-4.png" crc="294353280" ref="nosotros:visionmision:productos:galeria:contactenos"/>
+    <file name="u382-4.png" crc="4238566755" ref="nosotros:visionmision:productos:galeria:contactenos"/>
+    <file name="u380-4.png" crc="30152338" ref="nosotros:visionmision:productos:galeria:contactenos"/>
+    <file name="u421-4.png" crc="444302944" ref="nosotros"/>
+    <file name="imagen pegada 377x500.jpg" crc="4217289028" ref="nosotros:phone>nosotros:phone>visionymision"/>
+    <file name="u849-4.png" crc="4190459711" ref="visionmision"/>
+    <file name="imagen pegada 400x275-u856.jpg" crc="3982966075" ref="visionmision"/>
+    <file name="imagen pegada 313x445-u861.jpg" crc="4215811084" ref="visionmision"/>
+    <file name="imagen pegada 458x225-u866.jpg" crc="296551709" ref="visionmision"/>
+    <file name="u905-17.png" crc="4055346934" ref="contactenos"/>
+    <file name="u905-17-r.png" crc="276118779" ref="contactenos"/>
+    <file name="u905-17-m.png" crc="495542251" ref="contactenos"/>
+    <file name="u905-17-fs.png" crc="3929567969" ref="contactenos"/>
+    <file name="captcha.png" crc="3972111057" ref="contactenos"/>
+    <file name="u912-4.png" crc="126696673" ref="contactenos"/>
+    <file name="imagen pegada 356x442.jpg" crc="48501100" ref="contactenos"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="phone>nosotros:phone>contactenos:phone>visionymision"/>
+    <file name="smallflower130x86.jpg" crc="3895952899" ref="productos"/>
+    <file name="bigflower130x86.jpg" crc="3970824829" ref="productos"/>
+    <file name="leaves130x87.jpg" crc="3844155639" ref="productos"/>
+    <file name="u1739-4.png" crc="340631739" ref="productos"/>
+    <file name="smallflower.jpg" crc="4185745680" ref="galeria"/>
+    <file name="bigflower.jpg" crc="105302395" ref="galeria"/>
+    <file name="leaves.jpg" crc="92798476" ref="galeria"/>
+    <file name="smallflower68x45.jpg" crc="140267518" ref="galeria"/>
+    <file name="bigflower68x45.jpg" crc="3884007803" ref="galeria"/>
+    <file name="leaves68x45.jpg" crc="3806699980" ref="galeria"/>
+    <file name="u1738-4.png" crc="3776375239" ref="galeria"/>
+    <file name="u1458-17.png" crc="4055346934" ref="phone>contactenos"/>
+    <file name="u1458-17-r.png" crc="276118779" ref="phone>contactenos"/>
+    <file name="u1458-17-m.png" crc="495542251" ref="phone>contactenos"/>
+    <file name="u1458-17-fs.png" crc="3929567969" ref="phone>contactenos"/>
+  </folder>
+  <file name="index.html" crc="519164400" mt="1368810806487"/>
+  <file name="nosotros.html" crc="4184119393" mt="1368812299472"/>
+  <file name="visionmision.html" crc="85480526" mt="1368812299474"/>
+  <file name="productos.html" crc="4208555203" mt="1368927511317"/>
+  <file name="galeria.html" crc="4092832378" mt="1368927354936"/>
+  <file name="contactenos.html" crc="3993041921" mt="1368935707193"/>
+</manifest>

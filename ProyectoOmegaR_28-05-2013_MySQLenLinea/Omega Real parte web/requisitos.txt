@@ -1,0 +1,45 @@
+administrador
+supervisor
+vendedor
+almacen
+
+Productos:
+Marca
+Modelos
+foto de producto
+
+Documentos:
+%descuento
+
+-sunat
+-guia de remision
+
+datos proveedor:
+nombres
+telef
+direccion
+cuenta banco
+productos
+
+
+Reportes
+--------
+
+Ventas en fecha: 
+Ventas en el dia de productos por fecha (dia,semana mes)
+documento - monto - fecha - vendedor 
+
+Kardex: codigo de producto - descripcion - cantidad en almacenes
+
+ingresos de almacen:
+codigo - nombre - fecha - alamcen
+
+tiendas:
+
+Los olivos
+las malvinas
+cercado
+arequipa
+desaguadero
+  
+  

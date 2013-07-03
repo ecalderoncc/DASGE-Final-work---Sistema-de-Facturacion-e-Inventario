@@ -1,0 +1,108 @@
+#u591
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u596,#u594,#u592,#u598
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u596_clip,#u594_clip,#u592_clip,#u598_clip
+{
+	overflow: hidden;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+#slideshowu553,#u1016-3
+{
+	position: relative;
+}
+
+#u1019
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #B4BDD6;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u1021
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #7788B5;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u1023
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #0B2568;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u1025
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #7788B5;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u1027
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #B4BDD6;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u601,#u1029
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u1018-4,#u1020-4,#u1022-4,#u1024-4,#u1026-4,#u1028-4,#u1030-4
+{
+	font-size: 18px;
+	text-align: center;
+	position: relative;
+}
+
