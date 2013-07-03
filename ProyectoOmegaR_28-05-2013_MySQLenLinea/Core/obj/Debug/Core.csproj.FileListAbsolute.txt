@@ -2,3 +2,4 @@ C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inven
 C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\Core\bin\Debug\Core.pdb
 C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\Core\obj\Debug\Core.dll
 C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\Core\obj\Debug\Core.pdb
+C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache

@@ -404,3 +404,5 @@ C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inven
 C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\ProyectoOmegaR.pdb
 C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\DataService.dll
 C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\DataService.pdb
+C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\Core.dll
+C:\Users\Pamm\Documents\GitHub\DASGE-Final-work---Sistema-de-Facturacion-e-Inventario\ProyectoOmegaR_28-05-2013_MySQLenLinea\ProyectoOmegaR\bin\Debug\Core.pdb

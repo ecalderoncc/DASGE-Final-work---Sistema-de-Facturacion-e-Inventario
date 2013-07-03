@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using DataService;
+using Core;
 
 namespace ProyectoOmegaR
 {
@@ -77,6 +78,7 @@ namespace ProyectoOmegaR
             DataGVProductos.Rows.Add();
             txtRUC.Text = "";
             txtDir.Text = "";
+            txtsubtotal.Text = "0";
             txttot_boleta.Text = "0";
             cmbcliente.SelectedText = "";
         }
@@ -129,13 +131,15 @@ namespace ProyectoOmegaR
             if (DataGVProductos.Rows[index].Cells["Codigo"].Value != null)//siel campo de codigo esta vacio no agrega una nueva fila
             {
                 btnGrabar.Enabled = true;
-                //cantidad por precio unitario
-                int subtotal = Convert.ToInt32(DataGVProductos.Rows[index].Cells["Precio"].Value);
-                //totaldecadapructo * (igv/100) -> acumulado
-                txtIGV.Text = (Int32.Parse(txtIGV.Text) + (subtotal * (tempIGV / 100))).ToString();
-                //calcula total y aumenta al anterior
-                txttot_boleta.Text = (Int32.Parse(txttot_boleta.Text) + subtotal).ToString();
-                txtsubtotal.Text = (Int32.Parse(txttot_boleta.Text) - Int32.Parse(txtIGV.Text)).ToString();
+
+                int subTotal = Singleton.DescuentoSustentado(Convert.ToInt32(DataGVProductos.Rows[index].Cells["Precio"].Value));
+                int Igv = Singleton.CalcularIgv(subTotal);
+                int Total = subTotal + Igv;
+
+                txtsubtotal.Text = Convert.ToString(Convert.ToInt32(txtsubtotal.Text) + subTotal);
+                txtIGV.Text = Convert.ToString(Convert.ToInt32(txtIGV.Text) + Igv);
+                txttot_boleta.Text = Convert.ToString(Convert.ToInt32(txttot_boleta.Text) + Total);
+
                 btnquitarprod.Enabled = true;
                 FlagBusqProd = 0;
                 return true;
@@ -156,12 +160,15 @@ namespace ProyectoOmegaR
         {
             int currentrow = DataGVProductos.CurrentRow.Index;
             if (DataGVProductos.Rows[currentrow].Cells["Codigo"].Value != null)
-            //if (DataGVProductos.Rows[currentrow].Cells["Codigo"] != null)
             {
                 DialogResult dialogResult = MessageBox.Show(DataGVProductos.Rows[currentrow].Cells["Nombre"].Value.ToString(), "Desea Quitar este producto", MessageBoxButtons.YesNo);
                 if (dialogResult == DialogResult.Yes)
                 {
-                    int total = Convert.ToInt32(txttot_boleta.Text) - Convert.ToInt32(DataGVProductos.Rows[currentrow].Cells["Precio"].Value);
+                    int subtotal = Convert.ToInt32(txtsubtotal.Text) - Singleton.DescuentoSustentado(Convert.ToInt32(DataGVProductos.Rows[currentrow].Cells["Precio"].Value));
+                    int igv = Convert.ToInt32(txtIGV.Text) - Singleton.CalcularIgv(Singleton.DescuentoSustentado(Convert.ToInt32(DataGVProductos.Rows[currentrow].Cells["Precio"].Value)));
+                    int total = subtotal + igv;
+                    txtsubtotal.Text = subtotal.ToString();
+                    txtIGV.Text = igv.ToString();
                     txttot_boleta.Text = total.ToString();
                     DataGVProductos.Rows.RemoveAt(currentrow);
                     rowIndex--;

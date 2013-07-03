@@ -214,6 +214,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{51b873f9-d9bf-4265-9216-4194e288a3c5}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DataService\DataService.csproj">
       <Project>{64930bd3-2568-46da-8ea2-54467e5dcab3}</Project>
       <Name>DataService</Name>
